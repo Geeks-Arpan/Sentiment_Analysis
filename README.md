@@ -1,4 +1,7 @@
 # Sentiment_Analysis
 It is capable of predicting sentiment using machine learning.
-<h1 align='centre'>Accuray Score</h1>
-![Screenshot 2025-05-09 225209](https://github.com/user-attachments/assets/db31b9c3-94d5-45ab-95ee-6c18a41655ec)
+   <div style="text-align: center;">
+     <p>Accuracy Score</p>
+   </div>
+![Screenshot 2025-05-09 225209](https://github.com/user-attachments/assets/c00cae1d-f619-4878-b371-34799eff7f22)
+
